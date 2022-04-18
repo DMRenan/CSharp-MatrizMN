@@ -1,0 +1,13 @@
+C:\C#\Projetos\MatrizMN\MatrizMN\obj\Debug\netcoreapp2.1\MatrizMN.csproj.AssemblyReference.cache
+C:\C#\Projetos\MatrizMN\MatrizMN\obj\Debug\netcoreapp2.1\MatrizMN.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Projetos\MatrizMN\MatrizMN\obj\Debug\netcoreapp2.1\MatrizMN.AssemblyInfoInputs.cache
+C:\C#\Projetos\MatrizMN\MatrizMN\obj\Debug\netcoreapp2.1\MatrizMN.AssemblyInfo.cs
+C:\C#\Projetos\MatrizMN\MatrizMN\obj\Debug\netcoreapp2.1\MatrizMN.csproj.CoreCompileInputs.cache
+C:\C#\Projetos\MatrizMN\MatrizMN\bin\Debug\netcoreapp2.1\MatrizMN.deps.json
+C:\C#\Projetos\MatrizMN\MatrizMN\bin\Debug\netcoreapp2.1\MatrizMN.runtimeconfig.json
+C:\C#\Projetos\MatrizMN\MatrizMN\bin\Debug\netcoreapp2.1\MatrizMN.runtimeconfig.dev.json
+C:\C#\Projetos\MatrizMN\MatrizMN\bin\Debug\netcoreapp2.1\MatrizMN.dll
+C:\C#\Projetos\MatrizMN\MatrizMN\bin\Debug\netcoreapp2.1\MatrizMN.pdb
+C:\C#\Projetos\MatrizMN\MatrizMN\obj\Debug\netcoreapp2.1\MatrizMN.dll
+C:\C#\Projetos\MatrizMN\MatrizMN\obj\Debug\netcoreapp2.1\MatrizMN.pdb
+C:\C#\Projetos\MatrizMN\MatrizMN\obj\Debug\netcoreapp2.1\MatrizMN.genruntimeconfig.cache
